@@ -1,0 +1,23 @@
+name: api_manger
+description: "A flutter package to API handling like a super boss 😎."
+version: 0.0.10
+homepage: https://github.com/AbdOoSaed/api_manger
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ">=5.0.0 <6.0.0"
+  connectivity_plus: ^6.0.5
+dev_dependencies:
+  # flutter_test:
+  #   sdk: flutter
+  # test: 1.16.8
+  mockito: 5.0.14
+  build_runner: 2.1.1
+  flutter_lints: ^1.0.4
+
+flutter:
